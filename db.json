@@ -6,6 +6,7 @@
         "requestedDate": "01/09/24",
         "quantity": "5",
         "phone": "987 654 321",
+        "status": "In process",
         "contact": {
           "phone": "987 654 321",
           "address": "Avenida Arequipa 1234, Lima",
@@ -22,6 +23,7 @@
         "requestedDate": "29/08/24",
         "quantity": "10",
         "phone": "987 112 233",
+        "status": "Delivered",
         "contact": {
           "phone": "987 112 233",
           "address": "Avenida Javier Prado 5678, Lima",
@@ -38,6 +40,7 @@
         "requestedDate": "03/09/24",
         "quantity": "13",
         "phone": "987 334 455",
+        "status": "Shipped",
         "contact": {
           "phone": "987 334 455",
           "address": "Avenida La Mar 910, Lima",
