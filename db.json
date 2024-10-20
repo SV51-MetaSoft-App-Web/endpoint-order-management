@@ -3,7 +3,7 @@
       {
         "id": 1,
         "business": "Vinos del Valle",
-        "date": "01/09/24",
+        "requestedDate": "01/09/24",
         "quantity": "5",
         "phone": "987 654 321",
         "contact": {
@@ -19,7 +19,7 @@
       {
         "id": 2,
         "business": "Distribuidora Gómez",
-        "date": "29/08/24",
+        "requestedDate": "29/08/24",
         "quantity": "10",
         "phone": "987 112 233",
         "contact": {
@@ -35,7 +35,7 @@
       {
         "id": 3,
         "business": "Viñedos Rodríguez",
-        "date": "03/09/24",
+        "requestedDate": "03/09/24",
         "quantity": "13",
         "phone": "987 334 455",
         "contact": {
