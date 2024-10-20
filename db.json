@@ -1,0 +1,52 @@
+{
+    "order": [
+      {
+        "id": 1,
+        "business": "Vinos del Valle",
+        "date": "01/09/24",
+        "quantity": "5",
+        "phone": "987 654 321",
+        "contact": {
+          "phone": "987 654 321",
+          "address": "Avenida Arequipa 1234, Lima",
+          "email": "contact@vinosdelvalle.com",
+          "ruc": "12345678901",
+          "wineType": "Borgona",
+          "paymentMethod": "Credit Card",
+          "deliveryDate": "10/09/24"
+        }
+      },
+      {
+        "id": 2,
+        "business": "Distribuidora Gómez",
+        "date": "29/08/24",
+        "quantity": "10",
+        "phone": "987 112 233",
+        "contact": {
+          "phone": "987 112 233",
+          "address": "Avenida Javier Prado 5678, Lima",
+          "email": "info@distribuidoragomez.com",
+          "ruc": "23456789012",
+          "wineType": "Rose",
+          "paymentMethod": "Bank Transfer",
+          "deliveryDate": "05/09/24"
+        }
+      },
+      {
+        "id": 3,
+        "business": "Viñedos Rodríguez",
+        "date": "03/09/24",
+        "quantity": "13",
+        "phone": "987 334 455",
+        "contact": {
+          "phone": "987 334 455",
+          "address": "Avenida La Mar 910, Lima",
+          "email": "sales@vinedosrodriguez.com",
+          "ruc": "34567890123",
+          "wineType": "Seco",
+          "paymentMethod": "Cash on Delivery",
+          "deliveryDate": "12/09/24"
+        }
+      }9
+    ]
+  }
