@@ -5,9 +5,9 @@
         "business": "Vinos del Valle",
         "requestedDate": "01/09/24",
         "quantity": "5",
-        "phone": "987 654 321",
         "status": "In process",
         "contact": {
+          "name": "John Doe",
           "phone": "987 654 321",
           "address": "Avenida Arequipa 1234, Lima",
           "email": "contact@vinosdelvalle.com",
@@ -15,16 +15,19 @@
           "wineType": "Borgona",
           "paymentMethod": "Credit Card",
           "deliveryDate": "10/09/24"
-        }
+        },
+        "products": "Product 1",
+        "transportConditions": "Handle with care",
+        "paymentTerms": "Net 30 days"
       },
       {
         "id": 2,
         "business": "Distribuidora Gómez",
         "requestedDate": "29/08/24",
         "quantity": "10",
-        "phone": "987 112 233",
         "status": "Delivered",
         "contact": {
+          "name": "Jane Doe",
           "phone": "987 112 233",
           "address": "Avenida Javier Prado 5678, Lima",
           "email": "info@distribuidoragomez.com",
@@ -32,16 +35,19 @@
           "wineType": "Rose",
           "paymentMethod": "Bank Transfer",
           "deliveryDate": "05/09/24"
-        }
+        },
+        "products": "Product 2",
+        "transportConditions": "Fragile",
+        "paymentTerms": "Net 45 days"
       },
       {
         "id": 3,
         "business": "Viñedos Rodríguez",
         "requestedDate": "03/09/24",
         "quantity": "13",
-        "phone": "987 334 455",
         "status": "Shipped",
         "contact": {
+          "name": "Carlos Rodríguez",
           "phone": "987 334 455",
           "address": "Avenida La Mar 910, Lima",
           "email": "sales@vinedosrodriguez.com",
@@ -49,16 +55,19 @@
           "wineType": "Seco",
           "paymentMethod": "Cash on Delivery",
           "deliveryDate": "12/09/24"
-        }
+        },
+        "products": "Product 1",
+        "transportConditions": "Keep upright",
+        "paymentTerms": "Net 30 days"
       },
       {
         "id": 4,
         "business": "Bodega Fernandez",
         "requestedDate": "03/09/24",
         "quantity": "9",
-        "phone": "987 334 455",
         "status": "Cancelled",
         "contact": {
+          "name": "Luis Fernandez",
           "phone": "987 334 777",
           "address": "Avenida las Palmeras, Lima",
           "email": "sales@bogfernandez.com",
@@ -66,16 +75,19 @@
           "wineType": "Seco",
           "paymentMethod": "Cash on Delivery",
           "deliveryDate": "12/09/24"
-        }
+        },
+        "products": "Product 3",
+        "transportConditions": "Handle with care",
+        "paymentTerms": "Net 60 days"
       },
       {
         "id": 5,
         "business": "El Buen Vino",
         "requestedDate": "05/09/24",
         "quantity": "2",
-        "phone": "987 778 899",
         "status": "Pending",
         "contact": {
+          "name": "Ana Perez",
           "phone": "987 778 899",
           "address": "Avenida Abancay 7890, Lima",
           "email": "info@elbuenvino.com",
@@ -83,16 +95,19 @@
           "wineType": "Semi Seco",
           "paymentMethod": "Debit Card",
           "deliveryDate": "20/09/24"
-        }
+        },
+        "products": "Product 2",
+        "transportConditions": "Store in a cool place",
+        "paymentTerms": "Net 30 days"
       },
       {
         "id": 6,
         "business": "Vinoteca Torres",
         "requestedDate": "02/09/24",
         "quantity": "2",
-        "phone": "987 991 122",
         "status": "Refund",
         "contact": {
+          "name": "Miguel Torres",
           "phone": "987 991 122",
           "address": "Avenida Paseo de la República 2345, Lima",
           "email": "contact@vinotecatorres.com",
@@ -100,16 +115,19 @@
           "wineType": "Borgona",
           "paymentMethod": "Credit Card",
           "deliveryDate": "18/09/24"
-        }
+        },
+        "products": "Product 1",
+        "transportConditions": "Do not stack",
+        "paymentTerms": "Net 30 days"
       },
       {
         "id": 7,
         "business": "Distribuciones Sánchez",
         "requestedDate": "30/08/24",
         "quantity": "6",
-        "phone": "987 223 344",
         "status": "Delivered",
         "contact": {
+          "name": "Pedro Sánchez",
           "phone": "987 223 344",
           "address": "Avenida Costanera 3456, Lima",
           "email": "distribucionessanchez@example.com",
@@ -117,16 +135,19 @@
           "wineType": "Rose",
           "paymentMethod": "Credit Card",
           "deliveryDate": "22/09/24"
-        }
+        },
+        "products": "Product 3",
+        "transportConditions": "Keep dry",
+        "paymentTerms": "Net 30 days"
       },
       {
         "id": 8,
         "business": "Los Mejores Vinos",
         "requestedDate": "05/09/24",
         "quantity": "10",
-        "phone": "987 333 666",
         "status": "In process",
         "contact": {
+          "name": "María López",
           "phone": "987 333 666",
           "address": "Avenida Los Héroes 5678, Lima",
           "email": "losmejoresvinos@example.com",
@@ -134,7 +155,10 @@
           "wineType": "Seco",
           "paymentMethod": "Bank Transfer",
           "deliveryDate": "25/09/24"
-        }
+        },
+        "products": "Product 2",
+        "transportConditions": "Handle with care",
+        "paymentTerms": "Net 30 days"
       }
     ]
   }
